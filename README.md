@@ -1,2 +1,2 @@
 # Python-Live-Chat-App
-Python-Live-Chat-App-main
+Uses Flask Sockets to create a live chat room application.
